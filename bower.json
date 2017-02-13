@@ -1,0 +1,10 @@
+{
+  "name": "html-assets-gulp",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "smooth-scroll": "^1.0.1",
+    "wow": "wowjs#^1.1.2",
+    "animate.css": "^3.5.2"
+  }
+}
